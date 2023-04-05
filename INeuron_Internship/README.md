@@ -16,7 +16,4 @@ To run this project : First we have to keep our files in the hdfs using the comm
 After the files are placed in the hdfs we should run the "spark-submit script.py &> results.txt" from terminal/CMD
 
 
-## Authors
-
-- [@octokatherine](https://www.github.com/octokatherine)
 
